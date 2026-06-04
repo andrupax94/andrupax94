@@ -1,8 +1,8 @@
 <div align="center">
   <h1>¡Hola! Soy Andrés Eduardo Palencia Rojas 👋</h1>
   <h3>FullStack Junior Developer & Data Scientist</h3>
-  
-  <p>
+
+<p>
     <a href="https://www.linkedin.com/in/andres-palencia-51770b249" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -26,13 +26,13 @@ Mi trayectoria profesional me ha permitido desarrollar una combinación única d
 
 A lo largo de mi carrera y formación, he adquirido experiencia con diversas tecnologías y herramientas:
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| 🧠 **Data Science & Machine Learning** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/> ROCm |
-| 💻 **Desarrollo Frontend** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> Blazor |
-| ⚙️ **Desarrollo Backend** | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/> |
-| 🗄️ **Bases de Datos & Cloud** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/> |
-| 🎨 **Diseño & Otros** | <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/> |
+| Categoría                                  | Tecnologías                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| :------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧠**Data Science & Machine Learning** | `<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>` `<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>` `<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/><img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" alt="ROCm">`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 💻**Desarrollo Frontend**             | `<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>` `<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>` `<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>` `<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>` `<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>` `<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>` `````````````````````````<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/><img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff" alt="Blazor"/>```````````````````````````  |
+| ⚙️**Desarrollo Backend**            | `<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>` `<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>` `<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 🗄️**Bases de Datos & Cloud**        | `<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>` `<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 🎨**Diseño & Otros**                 | `<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ---
 
@@ -55,18 +55,17 @@ Durante mi proceso de regularización en España, desempeñé roles en logístic
 
 La educación continua es fundamental para mí. He complementado mi título universitario con diversas certificaciones para mantenerme actualizado en las últimas tecnologías.
 
-| Año | Título / Certificación | Institución |
-| :--- | :--- | :--- |
-| **2026** | Data Science and Machine Learning | 4Geeks Academy |
+| Año           | Título / Certificación          | Institución                             |
+| :------------- | :-------------------------------- | :--------------------------------------- |
+| **2026** | Data Science and Machine Learning | 4Geeks Academy                           |
 | **2025** | OpenSource Back End Web Developer | Escuela Superior De Hostelería Canarias |
-| **2024** | Gestión De Almacén | Fauca |
-| **2023** | S. Gestión De La Información | Somos Viernes |
-| **2023** | Inglés B1 | Oxford/Akacenter |
-| **2022** | Azure Az-900 | Akacenter |
-| **2022** | Bases De Datos | Akacenter |
-| **2019** | **Ingeniero De Sistemas** | **I.U.P Santiago Mariño** |
-| **2014** | Illustrator | Dr.Graphic |
-
+| **2024** | Gestión De Almacén              | Fauca                                    |
+| **2023** | S. Gestión De La Información    | Somos Viernes                            |
+| **2023** | Inglés B1                        | Oxford/Akacenter                         |
+| **2022** | Azure Az-900                      | Akacenter                                |
+| **2022** | Bases De Datos                    | Akacenter                                |
+| **2019** | **Ingeniero De Sistemas**   | **I.U.P Santiago Mariño**         |
+| **2014** | Illustrator                       | Dr.Graphic                               |
 
 <!-- ---
 

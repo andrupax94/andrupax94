@@ -14,7 +14,10 @@
 </div>
 
 ---
-
+<div class="banner">
+<img  src="./banner_1-100.jpg" alt="Banner"/>
+</div>
+---
 ## 👨‍💻 Sobre Mí
 
 Soy un desarrollador FullStack Junior y Científico de Datos apasionado por la tecnología y la resolución de problemas. Con una sólida base en ingeniería de sistemas y una formación complementaria en diversas áreas de desarrollo y ciencia de datos, busco aplicar mis habilidades para crear soluciones innovadoras y eficientes.

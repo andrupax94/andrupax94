@@ -67,19 +67,18 @@ La educación continua es fundamental para mí. He complementado mi título univ
 | **2019** | **Ingeniero De Sistemas** | **I.U.P Santiago Mariño** |
 | **2014** | Illustrator | Dr.Graphic |
 
----
+
+<!-- ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrupax94&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de andrupax94" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrupax94&show_icons=true&theme=radical" alt="Estadísticas de andrupax94" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrupax94&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrupax94&theme=radical&hide_border=true" alt="Racha de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrupax94&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </div>
 
----
+--- -->
 
 ## 🌟 Actitudes y Habilidades Blandas
 

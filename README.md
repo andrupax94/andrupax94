@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Andrés Eduardo Palencia Rojas 👋</h1>
-  <h3>FullStack Junior Developer & Data Scientist</h3>
+  <h3>FullStack Developer & Data Scientist | Python | Pytorch | TensorFlow | Scikit-Learn | Blazor | Angular | Laravel | FastAPI</h3>
 
 <p>
     <a href="https://www.linkedin.com/in/andres-palencia-51770b249" target="_blank">
@@ -55,17 +55,17 @@ Durante mi proceso de regularización en España, desempeñé roles en logístic
 
 La educación continua es fundamental para mí. He complementado mi título universitario con diversas certificaciones para mantenerme actualizado en las últimas tecnologías.
 
-| Año           | Título / Certificación          | Institución                             |
-| :------------- | :-------------------------------- | :--------------------------------------- |
-| **2026** | Data Science and Machine Learning | 4Geeks Academy                           |
-| **2025** | OpenSource Back End Web Developer | Escuela Superior De Hostelería Canarias |
-| **2024** | Gestión De Almacén              | Fauca                                    |
-| **2023** | S. Gestión De La Información    | Somos Viernes                            |
-| **2023** | Inglés B1                        | Oxford/Akacenter                         |
-| **2022** | Azure Az-900                      | Akacenter                                |
-| **2022** | Bases De Datos                    | Akacenter                                |
-| **2019** | **Ingeniero De Sistemas**   | **I.U.P Santiago Mariño**         |
-| **2014** | Illustrator                       | Dr.Graphic                               |
+| Año           | Título / Certificación               | Institución                             |
+| :------------- | :------------------------------------- | :--------------------------------------- |
+| **2026** | **Data Science and Machine Learning** | **4Geeks Academy**                      |
+| **2025** | OpenSource Back End Web Developer      | Escuela Superior De Hostelería Canarias |
+| **2024** | Gestión De Almacén                   | Fauca                                    |
+| **2023** | S. Gestión De La Información         | Somos Viernes                            |
+| **2023** | Inglés B1                             | Oxford/Akacenter                         |
+| **2022** | Azure Az-900                           | Akacenter                                |
+| **2022** | Bases De Datos                         | Akacenter                                |
+| **2019** | **Ingeniero De Sistemas**        | **I.U.P Santiago Mariño**         |
+| **2014** | Illustrator                            | Dr.Graphic                               |
 
 <!-- ---
 

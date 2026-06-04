@@ -68,7 +68,7 @@ La educación continua es fundamental para mí. He complementado mi título univ
 | **2019** | **Ingeniero De Sistemas** | **I.U.P Santiago Mariño** |
 | **2014** | Illustrator | Dr.Graphic |
 
----
+<!-- ---
 
 ## 📊 Estadísticas de GitHub
 
@@ -80,7 +80,7 @@ La educación continua es fundamental para mí. He complementado mi título univ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrupax94&theme=radical&hide_border=true" alt="Racha de GitHub" />
 </div>
 
----
+--- -->
 
 ## 🌟 Actitudes y Habilidades Blandas
 
